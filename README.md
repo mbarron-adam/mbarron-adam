@@ -1,5 +1,5 @@
 # Hello, I'm Adam Barron
-<a href="[https://linkedin.com](https://www.linkedin.com/in/adam-barron-78606622a/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adam-barron-78606622a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a student at Saint Francis University studying computer science with a focus on software development.
