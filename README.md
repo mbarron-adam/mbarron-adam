@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for software deve
 
 ## Tools
 - <a href="https://www.autopsy.com/">Autopsy 4.23.1</a>
-- <a href="https://www.openwall.com/john/">John the Ripper- Password Cracker</a>|
+- <a href="https://www.openwall.com/john/">John the Ripper- Password Cracker</a>
 
 
 
