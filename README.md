@@ -6,11 +6,9 @@ I am a student at Saint Francis University
 
 ## Objective
 
-
 My journey in computer science has led me to develop a passion for software development, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,13 +16,13 @@ My journey in computer science has led me to develop a passion for software deve
 
 
 ## Tools
-- Autopsy 4.23.1
-
+- <a href="https://www.autopsy.com/">Autopsy 4.23.1</a>
+- <a href="https://www.openwall.com/john/">John the Ripper- Password Cracker</a>|
 
 
 
 
 
 ## Projects
-- Autopsy Lab
+- <a href="https://google.com">Autopsy Lab</a>
 
