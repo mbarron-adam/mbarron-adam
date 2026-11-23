@@ -2,11 +2,11 @@
 <a href="[https://linkedin.com](https://www.linkedin.com/in/adam-barron-78606622a/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a student at Saint Francis University
+I am a student at Saint Francis University studying computer science with a focus on software development.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for software development, and I am now eager to transition into this field.
+My journey in computer science has led me to develop a passion for software development, and I am now eager to transition into this field and become a software developer while also picking up a variety of useful technical skills, like digital forensics, for fun!
 
 ## Skills
 
@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for software deve
 ## Tools
 - <a href="https://www.autopsy.com/">Autopsy 4.23.1</a>
 - <a href="https://www.openwall.com/john/">John the Ripper- Password Cracker</a>
+- Windows Registry
 
 
 
