@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for software deve
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Digital Forensics Analysis          | <a href="https://google.com">Autopsy Lab</a>|
+| Digital Forensics Analysis          | <a href="https://github.com/mbarron-adam/Autopsy-Labs/blob/main/README.md">Autopsy Lab</a>|
 
 
 ## Tools
@@ -24,5 +24,5 @@ My journey in computer science has led me to develop a passion for software deve
 
 
 ## Projects
-- <a href="https://google.com">Autopsy Lab</a>
+- <a href="https://github.com/mbarron-adam/Autopsy-Labs/blob/main/README.md">Autopsy Lab</a>
 
